@@ -10,7 +10,7 @@ I’m a **Data Scientist** focused on **statistical modeling** and **decision-or
 
 I combine advanced statistical methods with applied machine learning and solid analytical practices, working primarily with R, Python, and SQL. A key focus of my work is transforming complex data into clear, actionable insights through rigorous analysis, well-designed dashboards, and coherent analytical narratives.
 
-I currently work at ** NIC.br**, contributing to analytical systems and studies related to **connectivity indicators** and **network quality** in Brazil.
+I currently work at **NIC.br**, contributing to analytical systems and studies related to **connectivity indicators** and **network quality** in Brazil.
 
 ---
 
