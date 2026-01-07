@@ -24,29 +24,19 @@ Working closely with **developers, public managers, and regulatory stakeholders*
 
 ## 🎓 Professional Development
 
-- **MBA in Artificial Intelligence (in progress)** — University of São Paulo (USP)
+- **MBA in Artificial Intelligence (in progress)** — University of São Paulo (USP)  
+  Focus on machine learning, applied AI methods, and decision-oriented systems.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tools & Skills
 
-### I have ✅
-<p align="left">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="42" alt="R"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="42" alt="GitLab"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL"/>
-  <img src="https://cdn.simpleicons.org/sql/4479A1" height="42" alt="SQL"/>
-  <img src="https://cdn.simpleicons.org/quarto/39729E" height="42" alt="Quarto"/>
-  <img src="https://cdn.simpleicons.org/shiny/0D74B8" height="42" alt="Shiny"/>
-</p>
-
-### I'm learning 📚
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="42" alt="Kubernetes"/>
-</p>
+- Python, R, SQL  
+- Exploratory data analysis and statistical modeling  
+- Machine learning (applied, decision-oriented use cases) 
+- Reproducible analytical workflows  
+- Data visualization and dashboarding  
+- Communicating analytical results to **non-technical audiences**, including public managers and regulatory stakeholders  
 
 ---
 
