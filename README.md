@@ -1,8 +1,16 @@
 # Hi there 👋
 
-I’m a **Data Scientist** focused on **statistical modeling** and **decision-oriented analytics**. I work across the data lifecycle — from data integration and exploratory analysis to modeling, visualization, and communication for technical and non-technical stakeholders.
+- 🙋🏻‍♀️ Pronouns: she/her, ela/dela
+- 🧑‍💻 current position: Data Scientist at [ NIC.br](https://nic.br/)
+- 🏠 websites: [LinkedIn](https://www.linkedin.com/in/cristiane-millan)
+- 📧 e-mail: millan.cristiane@gmail.com
+- 🗣️: 🇧🇷, 🇺🇸, 🇪🇸
 
-I currently work at **CEPTRO / NIC.br**, contributing to analytical systems and studies related to **connectivity indicators** and **network quality** in Brazil.
+I’m a **Data Scientist** focused on **statistical modeling** and **decision-oriented analytics**.
+
+I combine advanced statistical methods with applied machine learning and solid analytical practices, working primarily with R, Python, and SQL. A key focus of my work is transforming complex data into clear, actionable insights through rigorous analysis, well-designed dashboards, and coherent analytical narratives.
+
+I currently work at ** NIC.br**, contributing to analytical systems and studies related to **connectivity indicators** and **network quality** in Brazil.
 
 ---
 
@@ -45,6 +53,3 @@ I’m currently organizing my public portfolio repositories. Stay tuned!
 
 ---
 
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/cristiane-millan  
-- Email: millan.cristiane@gmail.com
