@@ -19,6 +19,9 @@ I currently work at **NIC.br**, contributing to analytical systems and studies r
 **Applied Data Science & Analytics**  
 Designing and delivering data-driven analyses using **R, Python, and SQL**, with a strong focus on statistical modeling, exploratory data analysis, and decision support on complex, real-world datasets.
 
+**Analytical Data Infrastructure**  
+Designing and maintaining **aggregated datasets, materialized views, and database schemas** to support analytical applications, APIs, and dashboards, with attention to reproducibility and long-term maintainability.
+
 **Reproducible Analytical Systems**  
 Building and maintaining **reproducible analytical workflows**, reports, and dashboards that emphasize transparency, traceability, and long-term usability.
 
