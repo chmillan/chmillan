@@ -6,7 +6,7 @@
 - 📧 e-mail: millan.cristiane@gmail.com
 - 🗣️: 🇧🇷, 🇺🇸, 🇪🇸
 
-I’m a **Data Scientist** focused on **statistical modeling** and **decision-oriented analytics**.
+I am a Data Scientist specialized in statistically rigorous, decision-oriented analytics, with experience building reproducible and containerized data applications for production environments.
 
 I combine advanced statistical methods with applied machine learning and solid analytical practices, working primarily with R, Python, and SQL. A key focus of my work is transforming complex data into clear, actionable insights through rigorous analysis, well-designed dashboards, and coherent analytical narratives.
 
